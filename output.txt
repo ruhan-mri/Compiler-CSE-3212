@@ -1,0 +1,195 @@
+Adding header files
+
+Type--> Integer
+
+Valid declaration
+
+Variable name: a
+Valid declaration
+
+Variable name: b
+Valid declaration
+
+Variable name: c
+Valid declaration
+
+Variable name: d
+Type--> Float
+
+Valid declaration
+
+Variable name: m
+Valid declaration
+
+Variable name: n
+Type--> Character
+
+Valid declaration
+
+Variable name: x
+Valid declaration
+
+Variable name: y
+Type--> Integer
+
+Valid declaration
+
+Variable name: check
+Variable value: 100 (INTEGER)
+Variable name: check, Value: 100
+
+
+Variable value: 10 (INTEGER)
+Variable value: 20 (INTEGER)
+Variable value: 1 (INTEGER)
+Variable value: 5 (INTEGER)
+Variable name: a, Value: 10
+
+
+Variable name: check, Value: 100
+
+
+Variable value: 21 (INTEGER)
+Variable value: 19 (INTEGER)
+Variable value: 5 (INTEGER)
+Variable name: a, Value: 5
+
+
+Variable name: check, Value: 100
+
+
+Variable value: 2.400000 (FLOAT)
+Variable value: 1.400000 (FLOAT)
+Variable value: 0.800000 (FLOAT)
+Variable name: check, Value: 100
+
+
+Variable value: a (STRING)
+Variable name: x, Value: a
+
+
+Variable value: My name is Mohammad Ruhan Islam (STRING)
+Variable name: y, Value: My name is Mohammad Ruhan Islam
+
+
+Variable name: c, Value: 1
+
+
+For loop
+
+LOOP RUNNING(LOOP-THEKE)
+
+LOOP RUNNING(LOOP-THEKE)
+
+LOOP RUNNING(LOOP-THEKE)
+
+LOOP RUNNING(LOOP-THEKE)
+
+Variable name: c, Value: 1
+
+
+For loop
+
+LOOP RUNNING(LOOP-THEKE)
+
+LOOP RUNNING(LOOP-THEKE)
+
+LOOP RUNNING(LOOP-THEKE)
+
+LOOP RUNNING(LOOP-THEKE)
+
+Variable name: d, Value: 5
+
+
+For loop
+
+LOOP RUNNING(LOOP-THEKE)
+
+LOOP RUNNING(LOOP-THEKE)
+
+Variable name: c, Value: 1
+
+
+For loop
+
+LOOP RUNNING(LOOP-THEKE)
+
+LOOP RUNNING(LOOP-THEKE)
+
+LOOP RUNNING(LOOP-THEKE)
+
+LOOP RUNNING(LOOP-THEKE)
+
+Variable value: 80 (INTEGER)
+Variable name: a, Value: 80
+
+
+Variable name: c, Value: 1
+
+
+ELSE IF CONDITION
+
+ELSE IF CONDITION IS TRUE
+
+Variable name: c, Value: 1
+
+
+ELSE CONDITION
+
+IF CONDITION
+IF CONDITION IS TRUE
+
+Type--> Integer
+
+Valid declaration
+
+Variable name: var
+Variable value: 1 (INTEGER)
+Variable name: var, Value: 1
+
+
+Variable name: var, Value: 1
+
+
+Case no: 0
+
+Case no: 0
+
+Variable name: var, Value: 1
+
+
+Switch Case demo.
+
+Type--> Integer
+
+Valid declaration
+
+Variable name: i
+Valid declaration
+
+Variable name: count
+Variable value: 1 (INTEGER)
+Variable value: 5 (INTEGER)
+Power function value: 16 
+
+
+Value of Sin(30.000000) is 0.500001
+
+
+Value of Tan(45.000000) is 1.000004
+
+
+Value of Cos(60.000000) is 0.499998
+
+Value of Log(46.000000) is 3.828641
+
+Value of Log10(100.000000) is 2.000000
+
+
+Calculate the maximum number.
+
+Calculate the minimum number.
+This is a single line comment
+
+
+Valid Statement

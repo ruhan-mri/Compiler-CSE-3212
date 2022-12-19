@@ -1,0 +1,94 @@
+jukto stdio.h
+prodhan
+shuru
+    purno a, b, c, d end
+    dosomik m, n end
+    borno x, y end
+    purno check end
+    check = 100 end
+
+    chapao(check) end
+    a = 10 end
+    b = 20 end
+    c = 1 end
+    d = 5 end
+
+    chapao(a) end
+    chapao(check) end
+    a = b jog c end
+    a = b biyog c end
+    a = c gun d end
+    chapao(a) end
+    chapao(check) end
+    
+    m = 2.4 end
+    n = 1.4 end
+    m = m vaag 3 end
+    chapao(check) end
+    
+    x = "a" end
+    chapao(x) end
+
+    y = "My name is Mohammad Ruhan Islam" end
+    chapao(y) end
+
+
+    ghurao c theke d step 1{
+        chapao(c) end
+    }
+
+    ghurao c theke 5 step 1{
+        chapao(c) end
+    }
+
+    ghurao 1 theke d step 3{
+        chapao(d) end
+    }
+
+    ghurao 1 theke 5 step 1{
+        chapao(c) end
+    }
+
+    
+    jodi(a choto b){
+        a = b gun 4 end
+        chapao(a) end
+    }
+    othoba(a boro c){
+        chapao(c) end
+    }
+    noile{
+        chapao(c) end
+    }
+
+    purno var end
+    var = 1 end
+    bachai(var){
+        ghotona 1{
+            chapao(var) end
+        }
+        ghotona 2{
+            chapao(var) end
+        }
+        sheshghotona {
+            chapao(var) end
+        }
+    }
+
+    purno i, count end
+    i = 1 end
+    count = 5 end
+
+
+    pow(4,2) end
+    sin(30) end
+    tan(45) end
+    cos(60) end
+    log(46) end
+    log10(100) end
+    max(4,5) end
+    min(5,9) end
+
+    sl-- This is a single line comment
+
+shesh
